@@ -256,6 +256,9 @@
       top: unset !important;
       left: unset !important;
   }
+ .my-bad {
+	margin-bottom: 12px;
+}
 
 }
 
