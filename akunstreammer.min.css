@@ -90,6 +90,9 @@ ins:after {
 	.content {
 		padding: 0 5px !important;
 	}
+	.content h3 {
+		font-size: 25px !important;
+	}
 	.wrapper-premium-content:after {
 		width: 92% !important;
     	margin: 0 15px !important;
